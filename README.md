@@ -21,9 +21,6 @@
 - Stream from your own SoundCrate server, with disk caching
 - Automatic updates
 
-## Screenshots
-![Library](SCREENSHOT-URL)
-
 ## Install
 1. Download the installer from the Releases page.
 2. Run it. SoundCrate updates itself after that.
