@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR-LOGO-URL" width="120" alt="SoundCrate logo">
+  <img src="img/SoundCrate_Logo.png" width="120" alt="SoundCrate logo">
 </p>
 
 <h1 align="center">SoundCrate</h1>
