@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/RbgPro4/SoundCrate" alt="Latest version">
-  <img src="https://img.shields.io/github/downloads/RbgPro4/SoundCrate/total" alt="Downloads">
 </p>
 
 ## Features
