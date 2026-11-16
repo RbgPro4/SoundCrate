@@ -13,6 +13,9 @@
   <img src="https://img.shields.io/github/v/release/RbgPro4/SoundCrate" alt="Latest version">
 </p>
 
+> **About this project**
+> SoundCrate is a personal project: a music player I made with my own set of features, the way I wanted it to work. I don't know how to code, so I built it with the help of AI (Claude). Bugs do exist, but I do my best to catch and fix as many as I can and keep polishing the app as I go.
+
 ## Highlights
 
 - 🎵 **Local or streamed:** open a music folder (each subfolder becomes a library, and an `.m3u8` inside sets the track order) or connect to your own SoundCrate server.
